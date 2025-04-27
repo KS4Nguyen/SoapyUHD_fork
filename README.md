@@ -55,13 +55,22 @@ _Todo_ :
 ## Documentation 
 
 * SoapySDR generic driver needs
+
 ** SoapyUHD provides
+
    - soapysdr_module_uhd
    - __libhud__ (empty driver)
+
 *** EttusUHD provides
-    - __libuhd__ (living driver with acces to usrp-hardware, headers)
+
+    - __libuhd__ (living driver with acces
+    
+   to usrp-hardware, headers)
+
     - uhd-host
+
 ==> SoapySDR conflics in not getting libuhd from EttusUHD and headers.
+
 
 * UHD - https://github.com/EttusResearch/uhd/wiki
 * SoapySDR - https://github.com/pothosware/SoapySDR/wiki
