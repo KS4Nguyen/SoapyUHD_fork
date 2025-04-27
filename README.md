@@ -17,7 +17,7 @@
 
 ## Fork
 
-This fork of SoapyUHD has the goal to solve an Ubuntu PPA package conflict beween
+This fork of SoapyUHD has the goal to solve an Ubuntu PPA package conflict between
 - EttusUHD - ubuntu __'universe'__ first installed, then installed gnu-radio via sudo apt
 - SoapyUHD - ubuntu __'noble'__ later installed according to:
         https://github.com/pothosware/PothosCore/wiki/Ubuntu
